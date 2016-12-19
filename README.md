@@ -5,7 +5,7 @@ A theater booking system is a project that allows users to check for available s
   gcc main.c -o main (Linux)
 
 ### Steps to Follow:
-  Step 1:enter password 1 
+  Step 1:enter password 1 </lr>
   Step 2:initialize all seats of theatre to null,by pressing 6,but do this once a day 
   Step 3:for booking press 2 
   Step 4:for view seats by pressing 8 
